@@ -1,4 +1,4 @@
-# flutter_course_app_2
+# polls_app
 
 A new Flutter project.
 
